@@ -18,5 +18,6 @@ button {
 
 button:hover {
     color: white;
+    scale: 1.1;
     background: #000;
 }
